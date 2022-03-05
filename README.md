@@ -26,3 +26,5 @@
 - [x] Add selectable multiple choice answers beneath the card
    - [x] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
 -[x] Further customize and style the card
+
+<img src=https://github.com/SyedH482/CodePath-Android/blob/main/Android%20gif.gif>
